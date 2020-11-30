@@ -1,4 +1,5 @@
 # P4 
+(No se compilaba el .ipynb aqui en GitHub, y volvi a subir el .py, pero en la pagina Jupyter si funciona)
 ##Problema1
 -Para el problema 1 se implemento la siguiente dinámica.
 
